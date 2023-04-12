@@ -12,7 +12,7 @@ const App: React.FunctionComponent = () => {
     <div className="App">
      
         <Globalstyling />
-        <Navbar />
+        <Navbar HomeUrl={'Home'} AboutUrl={'About'} PagesUrl={'Pages'} BlogUrl={'Blog'} />
         <Herobanner />
     </div>
   )

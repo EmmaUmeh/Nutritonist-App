@@ -31,6 +31,9 @@ export const LinkContainer = styled.div`
     display: flex;
     justify-content: space-between;
     align-items: center;
+    .blc{
+        color: red;
+    }
 
     @media (max-width: 480px) {
       display: block;
@@ -43,7 +46,7 @@ export const LinkContainer = styled.div`
         background: #ddd;
         border-radius: 10px;
         box-shadow: 16px, 8px, 16px 8px rgba(0,0,0,0.3);
-        display:  ${({toggle}) => (toggle ? 'block' : 'none')};
+      
     }
 
     @media (min-width: 480px) and (max-width: 768px) {
@@ -57,7 +60,7 @@ export const LinkContainer = styled.div`
         background: #ddd;
         border-radius: 10px;
         box-shadow: 16px, 8px, 16px 8px rgba(0,0,0,0.1);
-        display:  ${({toggle}) => (toggle ? 'block' : 'none')};
+       
     }
 `
 
