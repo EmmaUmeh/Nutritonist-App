@@ -4,10 +4,11 @@ Live link:
 
 ![bodyUi](./src//images//bodyUi.png)
 
-Tech Stacks
+### Tech Stacks
 
--> Typescript
--> Styled Components
--> Framer Motion
+
+* Typescript
+* Styled Components
+* Framer Motion
 
 
