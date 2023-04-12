@@ -41,7 +41,9 @@ const Herobanner: React.FunctionComponent = () => {
                     </motion.div>
 
                 <motion.div  
-              animate={{y:0, opacity:1}} 
+              animate={{y:0, opacity:1,
+                    
+            }} 
               initial={{opacity:0, y:50}} 
               transition={{ease:"easeOut",duration:2}}
                 >

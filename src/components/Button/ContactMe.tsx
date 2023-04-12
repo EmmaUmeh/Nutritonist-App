@@ -14,7 +14,6 @@ export default function ContactMe(contactSetting: Contact) {
 
 export const StyledButton = styled.button`
     color: #121212;
-    font-weight: 600;
     /* width: 100%; */
     padding: 15px 15px 15px 15px;
     outline: none;
