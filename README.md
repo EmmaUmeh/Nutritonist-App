@@ -1,6 +1,8 @@
 ## NutritionistX
 Nutritionist X is a nutirionist app where patients find professional health nutritionist.
-Live link: 
+
+## Live link: https://nutritonist-app.vercel.app/
+
 
 ![bodyUi](./src//images//bodyUi.png)
 
